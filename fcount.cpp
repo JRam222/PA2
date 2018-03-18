@@ -15,7 +15,7 @@ int getFilesize(string filename);//method to retrieve file size in bytes
 int dirCount =0; //counters
 int fileCount =0;
 int byteCount =0;
-//add comment
+
 int main(int argc, char** input){
 	double version = 1.2;
 	displayVersion(version);

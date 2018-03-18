@@ -7,7 +7,7 @@ std::string d = "-d";
 std::string b = "-b";
 string lines[3]; //array to hold stdin
 int k=0;	 //counter for while loop
-//
+
 int main(int arg, char* input[]){
 	string lineInput;
 	// retrieve the lines from stdin and store them in array
